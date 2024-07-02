@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tlogue
+- 👋 Hi, My name is Tyler Logue.
 - 👀 I’m interested in Front-End Development, Information Technology, Data Science, and Programming.
 - 🌱 I’m currently improving my skills in programming with the languages of Python and Java mostly.
 - 💞️ I’m actively seeking collaboration opportunities in web development applications. Recently, I completed the Front-End Developer course by META on Coursera and received certification. I also hold an Associate's degree in Computer Science and am currently pursuing CompTIA certifications, expected to begin testing by June 2024. My practice has been focused on HTML, CSS, and JavaScript, and I have additional experience in software automation and various coding projects across different languages. These projects are currently private but can be shared with potential collaborators. I'm eager to contribute and learn in a collaborative environment. Let's connect and discuss how we can work together!
